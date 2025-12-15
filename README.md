@@ -9,8 +9,8 @@
 ## 🖥️ My PC Setup
 - 🧠 **CPU:** Ryzen 5 5600  
 - 🎮 **GPU:** RTX 4060  
-- 💾 **RAM:** 16GB Kingston RGB (2×8)  
-- ⚡ **SSD:** ADATA LEGEND 960 MAX  
+- 💾 **RAM:** 16GB (2×8)  
+- ⚡ **SSD:** ADATA LEGEND 960 MAX 
 - 🐧 **OS:** Arch Linux
 
 <img src="./footer.svg"></img>
